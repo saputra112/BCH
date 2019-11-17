@@ -1,0 +1,2 @@
+# BCH
+Scrip Termux
